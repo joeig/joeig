@@ -4,8 +4,8 @@ Hi 👋
 I'm Johannes, a freelance DevOps Engineer who likes to build
 reliable applications for the cloud.
 
-While I enjoy experimenting with new technologies, my preferred
-tech stack consists of:
+While I enjoy working with a variety of technologies, my
+preferred tech stack consists of:
 
   * Golang
   * TypeScript

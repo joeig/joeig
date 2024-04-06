@@ -13,7 +13,7 @@ tech stack consists of:
   * Terraform
   * Amazon Web Services
 
-If you have interesting projects, then it's time to get in
+If you have an interesting project, then it's time to get in
 touch.
 
   💌 hello@eigsys.de

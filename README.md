@@ -1,6 +1,4 @@
 ```text
-$ cat /home/joeig/README
-
 Hi 👋
 
 I'm Johannes, a freelance DevOps Engineer who likes to build

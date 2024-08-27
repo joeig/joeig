@@ -1,23 +1,21 @@
 ```text
 Hi 👋
 
-I'm Johannes, a freelance DevOps Engineer. I assist in planning,
-developing, and efficiently operating your cloud applications.
+I'm Johannes, a freelance DevOps Engineer. I assist in holistic
+development and operation of your cloud applications.
 My clients range from startups to established companies.
 
-If you have an interesting project, then it's time to get in
-touch.
+If you are working on a challenging project, then it's time to
+get in touch.
 
   💌 hello@eigsys.de
 
-While I enjoy working with a variety of technologies, my
-preferred tech stack consists of:
+Preferred tech stack:
 
-  * Golang
   * TypeScript
+  * Golang
+  * AWS
   * Kubernetes
-  * Terraform
-  * Amazon Web Services
 
 $ █
 ```

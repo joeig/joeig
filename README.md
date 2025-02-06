@@ -1,14 +1,5 @@
-```text
-Hi 👋
+## I'm Johannes, a freelance Full Stack Engineer. 👋
 
-I'm Johannes, a freelance Software Engineer. I help my clients
-build scalable full-stack applications using TypeScript, Golang,
-AWS and Kubernetes.
-
-If you are working on a challenging project, then it's time to
-get in touch.
-
-  💌 hello@eigsys.de
-
-$ █
-```
+* 👨🏻‍💻 I am passionate about building scalable cloud applications that are easy to maintain.
+* ⭐ Ask me about **TypeScript, Golang, AWS and Infrastructure-as-Code**.
+* 💌 If you are working on a challenging project, then it's time to get in touch: [**hello@eigsys.de**](mailto:hello@eigsys.de)
